@@ -1,11 +1,11 @@
 ---
 title: テンプレート
 tags:
-  - tag2
   - tag1
+  - tag2
 private: false
-updated_at: '2023-12-14T03:07:18+09:00'
-id: 9e0b578949126472f100
+updated_at: ''
+id: ''
 organization_url_name: null
 slide: false
 ignorePublish: true
