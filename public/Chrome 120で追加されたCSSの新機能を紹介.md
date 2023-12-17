@@ -12,6 +12,14 @@ slide: false
 ignorePublish: false
 ---
 
+# はじめに
+
+2023/12/6にリリースされた、Chrome 120で追加されたCSSの新機能を紹介します。
+またChrome 121で追加される予定の機能については、こちらにまとめてみたので良かったら確認してみて下さい！
+
+https://qiita.com/MURAMASA2470/items/cdc5742ef90d7c79a520
+
+# 追加される機能
 
 ## カスタムプロパティのsyntaxの追加(`<image>`)
 
