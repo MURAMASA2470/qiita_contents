@@ -5,8 +5,8 @@ tags:
   - CSS3
   - Chrome
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-15T05:03:14+09:00'
+id: 9f6da9fc4a6b25d08671
 organization_url_name: null
 slide: false
 ignorePublish: false
