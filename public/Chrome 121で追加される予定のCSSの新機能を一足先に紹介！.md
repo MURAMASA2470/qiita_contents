@@ -1,11 +1,11 @@
 ---
 title: Chrome 121で追加される予定のCSSの新機能を一足先に紹介！
 tags:
-  - Chrome
   - CSS
   - CSS3
+  - Chrome
 private: false
-updated_at: '2023-12-18T00:06:26+09:00'
+updated_at: '2023-12-18T00:47:51+09:00'
 id: cdc5742ef90d7c79a520
 organization_url_name: null
 slide: false
