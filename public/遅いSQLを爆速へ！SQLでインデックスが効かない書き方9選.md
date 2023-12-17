@@ -5,7 +5,7 @@ tags:
   - DB
   - index
 private: false
-updated_at: '2023-12-18T02:43:18+09:00'
+updated_at: '2023-12-18T02:53:22+09:00'
 id: d06cb3b6ad6b43b12a4b
 organization_url_name: null
 slide: false
