@@ -23,7 +23,8 @@ https://qiita.com/suzukito/items/908a3523f4b90dd77c6a
 
 ```sql
 -- インデックスが効かない例
-SELECT * FROM users WHERE username LIKE '%john%';
+SELECT * FROM users WHERE name LIKE '%田中%';
+SELECT * FROM users WHERE name LIKE '%田中';
 ```
 
 ### 回避策
@@ -32,7 +33,7 @@ SELECT * FROM users WHERE username LIKE '%john%';
 
 ```sql
 -- インデックスを効くようにする例
-SELECT * FROM users WHERE username LIKE 'john%';
+SELECT * FROM users WHERE name LIKE '田中%';
 ```
 
 
@@ -87,7 +88,7 @@ SELECT * FROM products WHERE price > 1000;
 
 
 
-## 5.NULL値のカラムの検索
+## 5.NULL値のカラムを検索する場合
 
 NULL値を含むカラムを比較する場合、インデックスが効きません。
 
