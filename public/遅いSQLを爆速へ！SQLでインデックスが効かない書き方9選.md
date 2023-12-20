@@ -2,8 +2,10 @@
 title: 遅いSQLを爆速へ！SQLでインデックスが効きづらい書き方9選
 tags:
   - SQL
-  - DB
-  - index
+  - MySQL
+  - PostgreSQL
+  - SQLServer
+  - oracle
 private: false
 updated_at: '2023-12-18T11:05:25+09:00'
 id: d06cb3b6ad6b43b12a4b
