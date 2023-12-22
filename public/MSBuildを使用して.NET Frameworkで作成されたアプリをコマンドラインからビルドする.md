@@ -1,14 +1,14 @@
 ---
 title: MSBuildを使用して.NET Frameworkで作成されたアプリをコマンドラインからビルド&デプロイする
 tags:
-  - MSBuild
-  - VisualStudio
-  - .NETFramework
   - .NET
   - PowerShell
+  - VisualStudio
+  - MSBuild
+  - .NETFramework
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-22T22:51:32+09:00'
+id: ef80566fa42a0b82d86d
 organization_url_name: null
 slide: false
 ignorePublish: false

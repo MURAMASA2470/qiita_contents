@@ -1,14 +1,14 @@
 ---
 title: Githubで草を生やすのを忘れて、芝に穴が開いてしまったときの対処法
 tags:
-  - 'Git'
-  - 'Github'
-  - 'コントリビューション'
-  - 'コミット'
-  - '草を生やす'
+  - Git
+  - GitHub
+  - コミット
+  - コントリビューション
+  - 草を生やす
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-22T22:51:31+09:00'
+id: 64df1653e69626fab616
 organization_url_name: null
 slide: false
 ignorePublish: false
