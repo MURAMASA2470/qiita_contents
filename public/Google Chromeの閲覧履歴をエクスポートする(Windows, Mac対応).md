@@ -12,11 +12,24 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
+
+## はじめに
+
 インターネットブラウザの閲覧履歴を見返していると自分の人生を振り返ってるみたいで楽しいですよね。
 私の場合はChromeの履歴が2013年からのものが残っていましたが、
 それ以前はIEやFireFoxなどを使っていたので残念ながら残っていませんでした。
 
-## 履歴データの保存場所
+
+他のブラウザについては以下の記事でまとめています。
+- Microsoft Edge
+
+https://qiita.com/MURAMASA2470/items/35cf540cf44a3c1617ab
+
+- Apple Safari
+
+https://qiita.com/MURAMASA2470/items/c29a9209c0d80956d913
+
+## OS毎の履歴データの保存場所
 
 履歴データは以下のディレクトリにあります
 
@@ -30,7 +43,14 @@ ignorePublish: false
 
 この中に`History`というファイルがあるので、それがChromeの履歴データになります
 
-## 履歴データの中身
+## sqlite3のインストール
+
+履歴データの閲覧には、`sqlite3`が必要です。
+まだインストールされていない方は、以下の記事を参考にインストールしてください。
+
+https://neko-py.com/sqlite-install
+
+## 履歴データの中身を確認
 
 それでは以下のように進めていきます
 
@@ -76,7 +96,7 @@ sqlite> .tables
 | hidden | visit_duration |
 | favicon_id | |
 
-## 実践
+## 履歴データを抽出してみる
 
 今回は`csv`形式で出力しますが、他にも以下のようなものもあるそうです
 

@@ -13,8 +13,12 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-前回、[Google Chromeの履歴をエクスポートする方法](https://qiita.com/MURAMASA2470/items/d081e71d79c4dc36671e#%E5%AE%9F%E8%B7%B5)を記事にしました。
+前回、[Google Chromeの履歴をエクスポートする方法](https://qiita.com/MURAMASA2470/items/d081e71d79c4dc36671e)を記事にしました。
 今回は要望があったSafari版を書いていこうと思います。
+
+Microsoft Edge版については、こちらにまとめてあります。
+
+https://qiita.com/MURAMASA2470/items/35cf540cf44a3c1617ab
 
 
 ## 履歴データの保存場所
