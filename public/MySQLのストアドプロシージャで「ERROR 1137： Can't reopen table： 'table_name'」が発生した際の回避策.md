@@ -1,11 +1,11 @@
 ---
 title: MySQLのストアドプロシージャで「ERROR 1137： Can't reopen table： 'table_name'」が発生した際の回避策
 tags:
-  - 'Mysql'
-  - 'ストアドプロシージャ'
+  - MySQL
+  - ストアドプロシージャ
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-23T00:03:25+09:00'
+id: e61191dea144c7561b0b
 organization_url_name: null
 slide: false
 ignorePublish: false
