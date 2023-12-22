@@ -6,7 +6,7 @@ tags:
   - history
   - 履歴
 private: false
-updated_at: '2021-06-16T00:19:53+09:00'
+updated_at: '2023-12-23T00:39:54+09:00'
 id: d081e71d79c4dc36671e
 organization_url_name: null
 slide: false

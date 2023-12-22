@@ -1,13 +1,13 @@
 ---
 title: Vercel v0でコピペ出来る画面を生成する
 tags:
-  - 'Vercel'
-  - 'v0'
-  - '生成AI'
-  - 'React'
+  - React
+  - Vercel
+  - 生成AI
+  - v0
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-23T06:23:09+09:00'
+id: 86864b8b324f854fd068
 organization_url_name: null
 slide: false
 ignorePublish: false

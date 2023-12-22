@@ -1,13 +1,13 @@
 ---
 title: 'Microsoft Edgeの閲覧履歴をエクスポートする(Windows, Mac対応)'
 tags:
-  - Edge
   - SQLite3
+  - Edge
   - history
   - 履歴
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-23T00:37:50+09:00'
+id: 35cf540cf44a3c1617ab
 organization_url_name: null
 slide: false
 ignorePublish: false
