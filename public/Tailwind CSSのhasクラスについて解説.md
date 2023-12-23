@@ -1,12 +1,12 @@
 ---
 title: Tailwind CSSのhasクラスについて解説
 tags:
-  - 'tailwindcss'
-  - 'CSS'
-  - '新機能'
+  - CSS
+  - 新機能
+  - tailwindcss
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-23T23:08:25+09:00'
+id: e907ac6b6d95fd4457e2
 organization_url_name: null
 slide: false
 ignorePublish: false
