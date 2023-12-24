@@ -2,13 +2,13 @@
 title: Googleカレンダーの予定をSlackに連携する with GAS
 tags:
   - GoogleCalendar
+  - GAS
   - Slack
   - slackbot
   - slack-api
-  - GAS
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-25T07:04:51+09:00'
+id: 5187380312afbb0f951e
 organization_url_name: null
 slide: false
 ignorePublish: false
