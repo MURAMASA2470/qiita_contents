@@ -1,13 +1,13 @@
 ---
 title: WebAssemblyに特化したプログラミング言語「Onyx」にWindowsで入門してみる
 tags:
-  - wasm
-  - WebAssembly
-  - onxy
   - HelloWorld
+  - WebAssembly
+  - wasm
+  - onxy
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-25T09:33:50+09:00'
+id: ff4e47a65354a4ef5476
 organization_url_name: null
 slide: false
 ignorePublish: false
