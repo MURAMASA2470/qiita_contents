@@ -1,14 +1,14 @@
 ---
 title: Vue3 + Element Plus + TypeScript + Viteでシンプルモダンなアプリケーションを作成
 tags:
+  - TypeScript
   - Vue.js
+  - vite
   - Vue3
   - ElementPlus
-  - Vite
-  - TypeScript
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-25T11:14:18+09:00'
+id: 618772cf270a7ae5a5d5
 organization_url_name: null
 slide: false
 ignorePublish: false
