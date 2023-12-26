@@ -19,6 +19,12 @@ ignorePublish: false
 VueのUIフレームワークである`Element Plus`を試す。
 環境構築から、軽い画面作成まで行う。
 
+## Element UI と Element Plus の違い
+
+`Element UI` と `Element Plus` は、どちらも Vue.js のUIライブラリで、同じELEMEのチームによって開発・管理されています。
+`Element UI`はVue 2に対応しており、Vue 3には対応していませんが`Element Plus`はVue 3 に対応しています。
+`Element UI`はメンテナンスモードに入り、新機能やアップデートの提供は低頻度になっています。
+
 ## 環境
 
 - Vue3
