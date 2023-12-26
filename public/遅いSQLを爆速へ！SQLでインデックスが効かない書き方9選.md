@@ -1,11 +1,11 @@
 ---
-title: 遅いSQLを爆速へ！SQLでインデックスが効きづらい書き方9選
+title: 遅いSQLを爆速へ！SQLでインデックスが効きづらい書き方＆対処法9選
 tags:
-  - MySQL
   - SQL
-  - SQLServer
+  - index
+  - インデックス
+  - MySQL
   - PostgreSQL
-  - oracle
 private: false
 updated_at: '2023-12-20T09:12:07+09:00'
 id: d06cb3b6ad6b43b12a4b
