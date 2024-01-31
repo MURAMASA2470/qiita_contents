@@ -1,7 +1,8 @@
 ---
-title: gitをインストールした際に毎回設定する事まとめ
+title: gitをインストールしたらやるべきこと
 tags:
   - Git
+  - 初回
 private: false
 updated_at: '2023-12-07T02:13:53+09:00'
 id: 46dc2b8130de153f596c
